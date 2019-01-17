@@ -4,3 +4,5 @@ Astrophysics
 Third year
 Lansing, MI
 CMSE 201 and some research doing Python
+Hannah Gallamore
+gallamor@msu.edu
